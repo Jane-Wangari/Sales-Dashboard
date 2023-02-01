@@ -1,6 +1,7 @@
 # Sales-Dashboard
 Sales Data Analysis
 ![Screenshot 2022-12-21 014411](https://user-images.githubusercontent.com/110452335/208781505-873cddcf-372c-40f8-9657-77b1d6eb8eba.png)
+
 # Introduction
 One of the most significant departments in any organization is the sales department. The department plays a pivotal role in promoting the success of the business. Sales play a unique and essential role in bridging the gap between the company's products and services, and the potential customer needs to promote customer satisfaction. Sales impact a company's success as they build customer business trust. 
 
